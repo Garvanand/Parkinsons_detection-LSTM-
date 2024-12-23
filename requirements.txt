@@ -5,7 +5,7 @@ keras==3.7.0
 librosa
 plotly
 tensorflow==2.18.0
-pickle
+pickleshare==0.7.5
 pathlib
 sklearn
 os
