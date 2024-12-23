@@ -7,5 +7,5 @@ plotly
 tensorflow==2.18.0
 pickleshare==0.7.5
 pathlib
-sklearn
+sklearn==0.0
 os
