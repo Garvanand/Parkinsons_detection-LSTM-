@@ -1,9 +1,10 @@
 streamlit
 numpy
 pandas
+keras==3.7.0
 librosa
 plotly
-tensorflow
+tensorflow==2.18.0
 pickle
 pathlib
 sklearn
