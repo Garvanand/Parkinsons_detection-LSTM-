@@ -4,7 +4,6 @@ pandas
 librosa
 plotly
 tensorflow
-keras
 pickle
 pathlib
 sklearn
