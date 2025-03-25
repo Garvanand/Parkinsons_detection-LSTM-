@@ -124,7 +124,6 @@ PyScreeze==1.0.1
 pytesseract==0.3.13
 python-dateutil==2.9.0.post0
 pytweening==1.2.0
-pytz==2024.2
 pywin32==308
 pyzmq==26.2.0
 referencing==0.35.1
