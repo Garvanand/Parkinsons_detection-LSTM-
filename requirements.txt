@@ -1,7 +1,7 @@
 pandas
 numpy
 tensorflow==2.8.0
-skcit-learn
+sklearn
 pickle
 os
 streamlit
