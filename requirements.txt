@@ -1,7 +1,7 @@
 streamlit
-numpy
+numpy==1.24.3
 pandas
 librosa
 plotly
-tensorflow
-keras
+tensorflow==2.13.0
+keras==2.13.1
