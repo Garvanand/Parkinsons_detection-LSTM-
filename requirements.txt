@@ -5,7 +5,3 @@ librosa
 plotly
 tensorflow
 keras
-pickle
-time
-matplotlib
-seaborn
