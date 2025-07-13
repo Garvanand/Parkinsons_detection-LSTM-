@@ -1,0 +1,41 @@
+Advanced Features Information
+===========================
+
+Original features: 22
+Advanced features: 18
+Total features: 40
+
+Advanced Features Description:
+---------------------------
+- voice_instability
+- frequency_variations
+- amplitude_perturbation
+- combined_jitter
+- combined_shimmer
+- nonlinear_complexity
+- signal_stability
+- shimmer_to_jitter_ratio
+- perturbation_index
+- vocal_fold_stability
+- frequency_range
+- frequency_stability
+- combined_perturbation
+- noise_complexity
+- jitter_shimmer_product
+- pitch_range_ratio
+- harmonic_to_noise_stability
+- complexity_index
+
+Advanced Features Statistics:
+---------------------------
+       voice_instability  frequency_variations  ...  harmonic_to_noise_stability  complexity_index
+count         195.000000            195.000000  ...                   195.000000        195.000000
+mean            0.000255              1.902043  ...                  3481.118591          0.951253
+std             0.000465              1.230378  ...                  5822.015989          0.118632
+min             0.000017              1.049120  ...                    28.165211          0.637448
+25%             0.000055              1.168558  ...                   771.975424          0.873690
+50%             0.000121              1.332007  ...                  1891.348543          0.929943
+75%             0.000239              2.444035  ...                  4095.385257          1.012999
+max             0.003700              8.866288  ...                 50763.440860          1.334930
+
+[8 rows x 18 columns]

@@ -1,0 +1,47 @@
+Oxford Parkinson's Disease Dataset Information
+==========================================
+
+Total samples: 195
+Healthy subjects: 48
+Parkinson's patients: 147
+
+Features: 22
+
+Feature Description:
+------------------
+- MDVP:Fo(Hz)
+- MDVP:Fhi(Hz)
+- MDVP:Flo(Hz)
+- MDVP:Jitter(%)
+- MDVP:Jitter(Abs)
+- MDVP:RAP
+- MDVP:PPQ
+- Jitter:DDP
+- MDVP:Shimmer
+- MDVP:Shimmer(dB)
+- Shimmer:APQ3
+- Shimmer:APQ5
+- MDVP:APQ
+- Shimmer:DDA
+- NHR
+- HNR
+- RPDE
+- DFA
+- spread1
+- spread2
+- D2
+- PPE
+
+Basic Statistics:
+----------------
+       MDVP:Fo(Hz)  MDVP:Fhi(Hz)  MDVP:Flo(Hz)  MDVP:Jitter(%)  ...     spread2          D2         PPE      status
+count   195.000000    195.000000    195.000000      195.000000  ...  195.000000  195.000000  195.000000  195.000000
+mean    154.228641    197.104918    116.324631        0.006220  ...    0.226510    2.381826    0.206552    0.753846
+std      41.390065     91.491548     43.521413        0.004848  ...    0.083406    0.382799    0.090119    0.431878
+min      88.333000    102.145000     65.476000        0.001680  ...    0.006274    1.423287    0.044539    0.000000
+25%     117.572000    134.862500     84.291000        0.003460  ...    0.174351    2.099125    0.137451    1.000000
+50%     148.790000    175.829000    104.315000        0.004940  ...    0.218885    2.361532    0.194052    1.000000
+75%     182.769000    224.205500    140.018500        0.007365  ...    0.279234    2.636456    0.252980    1.000000
+max     260.105000    592.030000    239.170000        0.033160  ...    0.450493    3.671155    0.527367    1.000000
+
+[8 rows x 23 columns]

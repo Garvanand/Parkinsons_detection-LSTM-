@@ -20,7 +20,6 @@ def load_with_animation():
     with st.spinner('Processing audio file...'):
         progress_bar = st.progress(0)
         for i in range(100):
-            # Simulate processing time
             time.sleep(0.01)
             progress_bar.progress(i + 1)
         progress_bar.empty()
